@@ -1,0 +1,6 @@
+Firmwares supplied by MitchTech: [Arduino USB HID Leopard](http://mitchtech.net/arduino-usb-hid-keyboard/)
+
+They are under the Apache 2 liscence, no modifications were made to them.
+
+Thanks
+
