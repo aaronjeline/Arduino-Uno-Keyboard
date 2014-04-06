@@ -9,7 +9,7 @@ All instructions are written for Linux, using the ubuntu repositories.
 Flashing The Uno SMD R3 Firmware
 --------------------------------
 
-We will be using two firmwares files provided to us by Mitchtech (http://mitchtech.net/arduino-usb-hid-keyboard/) In fact, much of this setup comes from them. The Firmware files are under the Apache 2 lisence. Enjoy
+We will be using two firmware files provided to us by Mitchtech (http://mitchtech.net/arduino-usb-hid-keyboard/) In fact, much of this setup comes from them. The Firmware files are under the Apache 2 lisence. Enjoy
 
 1. Install dfu-programmer
 ```
