@@ -50,6 +50,14 @@ The development steps go like this:
 6. Rinse repeat
 
 
+Sample Project
+==============
+Included is a sample project, it can be found in /hellotest
+
+It simply types the word hello when givin power.
+
+
+
 
 
 
