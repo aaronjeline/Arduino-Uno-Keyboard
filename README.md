@@ -30,7 +30,7 @@ sudo dfu-programmer atmega16u2 reset
 
 5. Power cycle the device, and make sure the IDE can see the board and that you can upload a sketch
 
-Understanding the firmware
+How to use the project
 ==========================
 
 Included in this project are two firmwares, Arduino-usbserial-uno.hex and Arduino-leopard-0.3.hex
